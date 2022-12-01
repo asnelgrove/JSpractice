@@ -1,5 +1,6 @@
 //Objective: write a function that takes two numbers, a start and an end, and returns an array containing all the numbers between those two (inclusive).
-//Second objective: modify the function to take a third parameter for "step". If no step is provided, the numbers in the range should increment by 1; otherwise, they should increment (or decrement) by the step.
+//Second objective: modify the function to take a third parameter for "step". If no step is provided, the numbers in the range should increment by 1; 
+//otherwise, they should increment (or decrement) by the step.
 //Third objective: write a function to sum all the numbers in the range array
 //scroll down to see the answers
 
