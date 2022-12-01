@@ -1,4 +1,17 @@
-//Objective: write a function that will iterate through all the numbers between 1 and 100, printing "fizz" whenever a number is a multiple of 3, "buzz" whenever a number is a multiple of 5, and "FizzBuzz" whenever a number is both a multiple of 3 and of 5.
+/* Objective: write a function that will iterate through all the numbers between 1 and 100, printing "fizz" whenever a number is a multiple of 3, 
+"buzz" whenever a number is a multiple of 5, and "FizzBuzz" whenever a number is both a multiple of 3 and of 5. */
+//scroll down for the solution
+
+
+
+
+
+
+// | | |
+// V V V
+
+
+
 
 
 
