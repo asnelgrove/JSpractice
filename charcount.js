@@ -1,4 +1,5 @@
-//Objective: given a valid string, write a function that returns an object with a key for each character that appears in the string, with a value representing the number of times that character appears
+/*Objective: given a valid string, write a function that returns an object with a key for each character
+that appears in the string, with a value representing the number of times that character appears */
 //scroll down to see the solution
 
 
